@@ -1,7 +1,4 @@
 # Project-CRUD-Movies
-Choubi-Mohammed/Project-CRUD-Movies
-# Project-CRUD-Movies
-
 This project is a RESTful API built with **Node.js**, **Express.js**, and **MongoDB**. It allows users to perform CRUD (Create, Read, Update, Delete) operations on a movie collection. The API is designed to manage movie data such as name, genre, and release year, with robust validation using **Joi** and data management via **Mongoose**.
 
 ---
